@@ -1,6 +1,6 @@
 <?php
 
-namespace Davidhsianturi\BladeBootstrapIcons;
+namespace AlanMBurr\BladeBootstrapIcons;
 
 use BladeUI\Icons\Factory;
 use Illuminate\Support\ServiceProvider;
